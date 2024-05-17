@@ -1,122 +1,123 @@
 ## Android
+
 - Android Basics 
-  - Android Studio
-  - Android project structure
-  - Activity lifecycle
-  - Fragments
-  - Intents
-  - Views and ViewGroups
+  - Android Studio: 🙋 explained
+  - Android project structure: 🎓 known
+  - Activity lifecycle: 🖐️ used
+  - Fragments: 🎓 known
+  - Intents: 🖐️ used
+  - Views and ViewGroups: 🖐️ used
   - Layouts
-    - LinearLayout
-	- RelativeLayout
-	- ConstraintLayout
-	- FrameLayout
-	- TableLayout
+    - LinearLayout: 🙋 explained
+		- RelativeLayout: 🎓 known
+		- ConstraintLayout: 🙋 explained
+		- FrameLayout: 🙋 explained
+		- TableLayout: 🙋 explained
   - Resources
-    - res/values
-    - strings.xml
-    - colors.xml
-    - styles.xml
-  - R class
+    - res/values: 🎓 known
+    - strings.xml: 🎓 known
+    - colors.xml: 🎓 known
+    - styles.xml: 🎓 known
+  - R class: 🙋 explained
 - User Interface (UI)
-  - XML layout files
+  - XML layout files: 🙋 explained
   - Widgets
-    - TextView
-    - EditText
-    - Button
-    - ImageView
-    - RecyclerView
-    - ListView
-    - ScrollView
-    - CardView
-    - AppBar
-  - Custom views
-  - Material Design components
-  - Themes and styles
-  - Animations and transitions
+    - TextView: 🙋 explained
+    - EditText: 🙋 explained
+    - Button: 🙋 explained
+    - ImageView: 🙋 explained
+    - RecyclerView: 🎓 known
+    - ListView: 🎓 known
+    - ScrollView: 🙋 explained
+    - CardView: 👂 heard
+    - AppBar: 👂 heard
+  - Custom views: 🎓 known
+  - Material Design components: 🎓 known
+  - Themes and styles: 👂 heard
+  - Animations and transitions: 👂 heard
 - Intents and Broadcast Receivers
-  - Explicit intents
-  - Implicit intents
-  - Passing data between activities
-  - Starting activities for result
-  - LocalBroadcastManager
-  - System broadcasts
-  - Custom broadcasts
+  - Explicit intents: 🙋 explained
+  - Implicit intents: 🎓 known
+  - Passing data between activities: 🙋 explained
+  - Starting activities for result: 🙋 explained
+  - LocalBroadcastManager: 👂 heard
+  - System broadcasts: 👂 heard
+  - Custom broadcasts: 👂 heard
 - Data Storage
-  - SharedPreferences
-  - Internal storage
-  - External storage
-  - SQLite database
-  - Room persistence library
-  - Content providers
+  - SharedPreferences: 👂 heard
+  - Internal storage: 🎓 known
+  - External storage: 🎓 known
+  - SQLite database: 👂 heard
+  - Room persistence library: 🎓 known
+  - Content providers: 👂 heard
 - Networking
-  - HttpURLConnection
-  - OkHttp
-  - Retrofit
+  - HttpURLConnection: 👂 heard
+  - OkHttp: 👂 heard
+  - Retrofit: 👂 heard
   - JSON parsing
-    - JSONObject
-    - Gson
-  - AsyncTask
-  - Threading
-  - Background services
+    - JSONObject: 👂 heard
+    - Gson: 🖐️ used
+  - AsyncTask: 🎓 known
+  - Threading: 🎓 known
+  - Background services: 👂 heard
 - Services and Background Tasks
-  - Service lifecycle
-  - IntentService
-  - JobScheduler
-  - WorkManager
-  - BroadcastReceiver
-  - AlarmManager
-  - Foreground services
+  - Service lifecycle: 👂 heard
+  - IntentService: 👂 heard
+  - JobScheduler: 👂 heard
+  - WorkManager: 👂 heard
+  - BroadcastReceiver: 🖐️ used
+  - AlarmManager: 👂 heard
+  - Foreground services: 🖐️ used
 - Permissions
-  - Runtime permissions
-  - Permission groups
-  - Checking and requesting permissions
+  - Runtime permissions: 🎓 known
+  - Permission groups: 🎓 known
+  - Checking and requesting permissions: 👂 heard
 - Multimedia
-  - Playing audio
-  - Playing video
-  - Recording audio
-  - Camera API
-  - ExoPlayer
+  - Playing audio: 👂 heard
+  - Playing video: 👂 heard
+  - Recording audio: 👂 heard
+  - Camera API: 👂 heard
+  - ExoPlayer: 👂 heard
 - Location and Maps
-  - Google Maps API
-  - Location services
-  - Geocoding and reverse geocoding
-  - Geofencing
+  - Google Maps API: 👂 heard
+  - Location services: 👂 heard
+  - Geocoding and reverse geocoding: 👂 heard
+  - Geofencing: 👂 heard
 - Notifications
-  - Notification channels
-  - Building notifications
-  - Notification actions
-  - Notification styles
-  - Heads-up notifications
+  - Notification channels: 👂 heard
+  - Building notifications: 👂 heard
+  - Notification actions: 👂 heard
+  - Notification styles: 👂 heard
+  - Heads-up notifications: 👂 heard
 - Firebase Integration
-  - Firebase Authentication
-  - Firebase Realtime Database
-  - Cloud Firestore
-  - Firebase Cloud Messaging
-  - Firebase Analytics
-  - Firebase Crashlytics
-  - Firebase Storage
-- Dependency Injection
+  - Firebase Authentication: 👂 heard
+  - Firebase Realtime Database: 👂 heard
+  - Cloud Firestore: 👂 heard
+  - Firebase Cloud Messaging: 👂 heard
+  - Firebase Analytics: 👂 heard
+  - Firebase Crashlytics: 👂 heard
+  - Firebase Storage: 👂 heard
+- Dependency Injection: 🙋 explained
 - Testing
-  - Unit testing with JUnit
-  - UI testing with Espresso
-  - Mocking with Mockito
-  - Robolectric
+  - Unit testing with JUnit: 🙋 explained
+  - UI testing with Espresso: 🙋 explained
+  - Mocking with Mockito: 🖐️ used
+  - Robolectric: 👂 heard
 - Jetpack Libraries
-  - ViewModel
-  - LiveData
-  - Data Binding
-  - Navigation component
-  - Paging library
-  - Room
-  - WorkManager
-  - CameraX
+  - ViewModel: 🎓 known
+  - LiveData: 🎓 known
+  - Data Binding: 👂 heard
+  - Navigation component: 🖐️ used
+  - Paging library: 👂 heard
+  - Room: 🖐️ used
+  - WorkManager: 👂 heard
+  - CameraX: 👂 heard
 - Advanced Topics
   - Architecture components
-    - MVVM
-    - MVI
-    - MVP
-  - ProGuard and R8
-  - Performance optimization
-  - App bundles
-  - Custom ROMs and rooting
+    - MVVM: 🖐️ used
+    - MVI: 👂 heard
+    - MVP: 👂 heard
+  - ProGuard and R8: 👂 heard
+  - Performance optimization: 👂 heard
+  - App bundles: 👂 heard
+  - Custom ROMs and rooting: 👂 heard
