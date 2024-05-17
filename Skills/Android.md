@@ -1,83 +1,81 @@
 ## Android
 
-- Android Basics 
+- Android Basics
   - Android Studio: 🙋 explained
-  - Android project structure: 🎓 known
-  - Activity lifecycle: 🖐️ used
-  - Fragments: 🎓 known
-  - Intents: 🖐️ used
-  - Views and ViewGroups: 🖐️ used
+  - Android project structure: 🙋 explained
+  - Activity lifecycle: 🙋 explained
+  - Fragments: 🙋 explained
+  - Intents: 🙋 explained
+  - Views and ViewGroups: 🙋 explained
   - Layouts
-  	- LinearLayout: 🙋 explained
-	- RelativeLayout: 🎓 known
-	- ConstraintLayout: 🙋 explained
-	- FrameLayout: 🙋 explained
-	- TableLayout: 🙋 explained
-  - Resources
-    - res/values: 🎓 known
-    - strings.xml: 🎓 known
-    - colors.xml: 🎓 known
-    - styles.xml: 🎓 known
+  - LinearLayout: 🙋 explained
+  - RelativeLayout: 🙋 explained
+  - ConstraintLayout: 🙋 explained
+  - FrameLayout: 🙋 explained
+  - TableLayout: 🙋 explained
+  - res/values: 🙋 explained
+  - strings.xml: 🙋 explained
+  - colors.xml: 🙋 explained
+  - styles.xml: 🙋 explained
   - R class: 🙋 explained
 - User Interface (UI)
   - XML layout files: 🙋 explained
-  - Widgets
-    - TextView: 🙋 explained
-    - EditText: 🙋 explained
-    - Button: 🙋 explained
-    - ImageView: 🙋 explained
-    - RecyclerView: 🎓 known
-    - ListView: 🎓 known
-    - ScrollView: 🙋 explained
-    - CardView: 👂 heard
-    - AppBar: 👂 heard
+  - TextView: 🙋 explained
+  - EditText: 🙋 explained
+  - Button: 🙋 explained
+  - ImageView: 🙋 explained
+  - RecyclerView: 🙋 explained
+  - ListView: 🙋 explained
+  - ScrollView: 🙋 explained
+  - CardView: 🎓 known
+  - AppBar: 🎓 known
   - Custom views: 🎓 known
-  - Material Design components: 🎓 known
-  - Themes and styles: 👂 heard
-  - Animations and transitions: 👂 heard
+  - Material Design components: 🙋 explained
+  - Themes and styles: 🙋 explained
+  - Animations and transitions: 🎓 known
 - Intents and Broadcast Receivers
   - Explicit intents: 🙋 explained
-  - Implicit intents: 🎓 known
+  - Implicit intents: 🙋 explained
   - Passing data between activities: 🙋 explained
   - Starting activities for result: 🙋 explained
-  - LocalBroadcastManager: 👂 heard
-  - System broadcasts: 👂 heard
-  - Custom broadcasts: 👂 heard
+  - LocalBroadcastManager: 🎓 known
+  - System broadcasts: 🎓 known
+  - Custom broadcasts: 🎓 known
 - Data Storage
-  - SharedPreferences: 👂 heard
-  - Internal storage: 🎓 known
-  - External storage: 🎓 known
-  - SQLite database: 👂 heard
-  - Room persistence library: 🎓 known
-  - Content providers: 👂 heard
+  - SharedPreferences: 🙋 explained
+  - Internal storage: 🙋 explained
+  - External storage: 🙋 explained
+  - SQLite database: 🙋 explained
+  - Room persistence library: 🙋 explained
+  - Content providers: 🎓 known
 - Networking
-  - HttpURLConnection: 👂 heard
-  - OkHttp: 👂 heard
-  - Retrofit: 👂 heard
+  - HttpURLConnection: 🎓 known
+  - OkHttp: 🖐️ used
+  - Retrofit: 🖐️ used
   - JSON parsing
-    - JSONObject: 👂 heard
-    - Gson: 🖐️ used
+  - JSONObject: 👂 heard
+  - Gson: 🖐️ used
   - AsyncTask: 🎓 known
   - Threading: 🎓 known
-  - Background services: 👂 heard
+  - Background services: 🎓 known
 - Services and Background Tasks
-  - Service lifecycle: 👂 heard
-  - IntentService: 👂 heard
+  - Service lifecycle: 🙋 explained
+  - IntentService: 🎓 known
   - JobScheduler: 👂 heard
   - WorkManager: 👂 heard
   - BroadcastReceiver: 🖐️ used
   - AlarmManager: 👂 heard
   - Foreground services: 🖐️ used
 - Permissions
-  - Runtime permissions: 🎓 known
-  - Permission groups: 🎓 known
-  - Checking and requesting permissions: 👂 heard
+  - Runtime permissions: 🙋 explained
+  - Permission groups: 🙋 explained
+  - Checking and requesting permissions: 🙋 explained
 - Multimedia
-  - Playing audio: 👂 heard
-  - Playing video: 👂 heard
-  - Recording audio: 👂 heard
+  - Playing audio: 🙋 explained
+  - Playing video: 🙋 explained
+  - Recording audio: 🎓 known
   - Camera API: 👂 heard
-  - ExoPlayer: 👂 heard
+  - ExoPlayer: 🎓 known
 - Location and Maps
   - Google Maps API: 👂 heard
   - Location services: 👂 heard
@@ -101,23 +99,22 @@
 - Testing
   - Unit testing with JUnit: 🙋 explained
   - UI testing with Espresso: 🙋 explained
-  - Mocking with Mockito: 🖐️ used
+  - Mocking with Mockito: 🙋 explained
   - Robolectric: 👂 heard
 - Jetpack Libraries
-  - ViewModel: 🎓 known
-  - LiveData: 🎓 known
+  - ViewModel: 🙋 explained
+  - LiveData: 🙋 explained
   - Data Binding: 👂 heard
-  - Navigation component: 🖐️ used
+  - Navigation component: 🙋 explained
   - Paging library: 👂 heard
-  - Room: 🖐️ used
-  - WorkManager: 👂 heard
+  - Room: 🙋 explained
   - CameraX: 👂 heard
 - Advanced Topics
   - Architecture components
-    - MVVM: 🖐️ used
-    - MVI: 👂 heard
-    - MVP: 👂 heard
+  - MVVM: 🙋 explained
+  - MVI: 👂 heard
+  - MVP: 👂 heard
   - ProGuard and R8: 👂 heard
   - Performance optimization: 👂 heard
-  - App bundles: 👂 heard
+  - App bundles: 🙋 explained
   - Custom ROMs and rooting: 👂 heard

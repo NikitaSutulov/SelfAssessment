@@ -4,20 +4,20 @@
   - Modularity: 🙋 explained
   - Components: 🙋 explained
   - Directories: 🙋 explained
-  - GRASP: 👂 heard
+  - GRASP: 🎓 known
   - SOLID: 🖐️ used
-  - GoF patterns: 👂 heard
-  - CQS: 👂 heard
-  - Leaking abstractions: 👂 heard
+  - GoF patterns: 🎓 known
+  - CQS: 🎓 known
+  - Leaking abstractions: 🎓 known
   - Multiparadigm code: 🖐️ used
   - Contract programming: 🙋 explained
-  - Platform-agnostic: 👂 heard
-  - Transport-agnostic: 👂 heard
-  - Framework-agnostic: 👂 heard
+  - Platform-agnostic: 🎓 known
+  - Transport-agnostic: 🎓 known
+  - Framework-agnostic: 🎓 known
   - Code coverage: 🎓 known
   - Cohesion: 🎓 known
   - Coupling: 🎓 known
-  - Cyclomatic complexity: 👂 heard
+  - Cyclomatic complexity: 🎓 known
   - Reliability: 🙋 explained
   - Quality: 🙋 explained
   - Availability: 🙋 explained
@@ -26,25 +26,25 @@
 - Application architecture
   - Isolation between layer: 🎓 known
   - Domain-specific language (DSL): 🎓 known
-  - System vs applied code: 👂 heard
+  - System vs applied code: 🎓 known
   - Multilayer approach: 🎓 known
-  - Hexagonal architecture: 👂 heard
-  - Separation of concerns (SoC): 👂 heard
-  - Metaprogramming: 👂 heard
-  - Inversion of control (IoC): 👂 heard
+  - Hexagonal architecture: 🎓 known
+  - Separation of concerns (SoC): 🙋 explained
+  - Metaprogramming: 🎓 known
+  - Inversion of control (IoC): 🎓 known
   - Dependency injection (DI): 🖐️ used
   - Clean architecture: 🎓 known
-  - Domain-driven design (DDD): 👂 heard
-  - Pub/sub: 👂 heard
-  - Message brocker: 👂 heard
-  - Agent: 👂 heard
-  - Service locator: 👂 heard
+  - Domain-driven design (DDD): 🙋 explained
+  - Pub/sub: 🎓 known
+  - Message brocker: 🎓 known
+  - Agent: 🎓 known
+  - Service locator: 🎓 known
   - Message Queue (MQ): 🖐️ used
-  - CQRS: 👂 heard
+  - CQRS: 🎓 known
   - Event sourcing: 👂 heard
   - E-R data modeling: 🖐️ used
   - Entity-relationship diagram: 🖐️ used
-  - IDEF1X
+  - IDEF1X: 👂 heard
   - UML: 🖐️ used
   - Work breakdown structure: 🎓 known
   - Budget estimation: 🎓 known
@@ -53,13 +53,13 @@
   - Load balancing: 🙋 explained
   - Gateways: 🎓 known
   - On-premises: 🎓 known
-  - IaaS: 👂 heard
-  - PaaS: 👂 heard
-  - SaaS: 👂 heard
-  - FaaS clouds: 👂 heard
-  - Serverless: 👂 heard
-  - Vendor lock-in: 👂 heard
-  - Bus factor: 👂 heard
+  - IaaS: 🎓 known
+  - PaaS: 🎓 known
+  - SaaS: 🎓 known
+  - FaaS clouds: 🎓 known
+  - Serverless: 🎓 known
+  - Vendor lock-in: 🎓 known
+  - Bus factor: 🎓 known
 - Solution architecture
   - A software requirements specification (SRS): 🎓 known
   - Solution visions: 🎓 known
@@ -68,33 +68,33 @@
   - Process modelling: 🎓 known
   - Data modelling: 🎓 known
   - Solution components: 🎓 known
-  - Risk assessment: 👂 heard
-  - Non Functional Requirements (NFR): 👂 heard
+  - Risk assessment: 🎓 known
+  - Non Functional Requirements (NFR): 🎓 known
   - Clouds: 🎓 known
   - BPMN: 👂 heard
   - Low-code: 🎓 known
   - No-code: 🎓 known
   - Metric: 🎓 known
   - Metric abuse: 👂 heard
-  - ACID: 👂 heard
+  - ACID: 🙋 explained
   - CAP theorem: 👂 heard
-  - Single source of truth (SSOT): 👂 heard
+  - Single source of truth (SSOT): 🎓 known
 - Enterprise architecture
-  - Understanding business needs: 👂 heard
-  - Enterprise strategy: 👂 heard
-  - Integration with subsystems: 👂 heard
-  - Enterprise vision: 👂 heard
-  - Enterprise capabilities: 👂 heard
-  - Project scope: 👂 heard
-  - Enterprise service bus: 👂 heard
-  - Service-oriented architecture: 👂 heard
-  - Microservices: 👂 heard
-  - Process choreography: 👂 heard
-  - Service orchestration: 👂 heard
-  - Data warehouse: 👂 heard
-  - Business Intelligence: 👂 heard
-  - OLAP: 👂 heard
-  - OLTP: 👂 heard
-  - Conways Law: 👂 heard
-  - Quality assurance: 👂 heard
-  - Engineering Hygiene: 👂 heard
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 🎓 known
+  - Integration with subsystems: 🎓 known
+  - Enterprise vision: 🎓 known
+  - Enterprise capabilities: 🎓 known
+  - Project scope: 🎓 known
+  - Enterprise service bus: 🎓 known
+  - Service-oriented architecture: 🎓 known
+  - Microservices: 🎓 known
+  - Process choreography: 🎓 known
+  - Service orchestration: 🎓 known
+  - Data warehouse: 🎓 known
+  - Business Intelligence: 🎓 known
+  - OLAP: 🎓 known
+  - OLTP: 🎓 known
+  - Conways Law: 🎓 known
+  - Quality assurance: 🎓 known
+  - Engineering Hygiene: 🎓 known

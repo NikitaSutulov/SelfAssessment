@@ -1,135 +1,117 @@
 ## Java
 
 - Code basics
-	- Variables: 🙋 explained
-	- Primitive types: 🙋 explained
-	- `String`: 🙋 explained
-	- `Object`: 🙋 explained
-	- Arithmetic operators: 🙋 explained
-	- Boolean operators: 🙋 explained
-	- Complex conditions: 🙋 explained
-	- `if/else`: 🙋 explained
-	- `switch`: 🙋 explained
-	- Arrays: 🙋 explained
-	- `for` loop: 🙋 explained
-	- `while` loop: 🙋 explained
-	- `do ... while` loop: 🙋 explained
-	- foreach loop: 🙋 explained
-	- `try/catch`: 🙋 explained
-	- Checked exceptions: 🙋 explained
-	- Unchecked exceptions: 🙋 explained
-	- Errors: 🙋 explained
-	- `List`: 🙋 explained
-	- `Set`: 🙋 explained
-	- `Map`: 🙋 explained
-	- `Collection`, `Iterable`: 🙋 explained
-
+  - Variables: 🙋 explained
+  - Primitive types: 🙋 explained
+  - `String`: 🙋 explained
+  - `Object`: 🙋 explained
+  - Arithmetic operators: 🙋 explained
+  - Boolean operators: 🙋 explained
+  - Complex conditions: 🙋 explained
+  - `if/else`: 🙋 explained
+  - `switch`: 🙋 explained
+  - Arrays: 🙋 explained
+  - `for` loop: 🙋 explained
+  - `while` loop: 🙋 explained
+  - `do ... while` loop: 🙋 explained
+  - foreach loop: 🙋 explained
+  - `try/catch`: 🙋 explained
+  - Checked exceptions: 🙋 explained
+  - Unchecked exceptions: 🙋 explained
+  - Errors: 🙋 explained
+  - `List`: 🙋 explained
+  - `Set`: 🙋 explained
+  - `Map`: 🙋 explained
+  - `Collection`, `Iterable`: 🙋 explained
 - Methods
-	- Arguments: 🙋 explained
-	- Return type: 🙋 explained
-	- Method signature: 🙋 explained
-	- Method overloading: 🙋 explained
-	- `varargs`: 🙋 explained
-
+  - Arguments: 🙋 explained
+  - Return type: 🙋 explained
+  - Method signature: 🙋 explained
+  - Method overloading: 🙋 explained
+  - `varargs`: 🙋 explained
 - Recursion: 🙋 explained
-
 - Classes and objects
-	- Properties: 🙋 explained
-	- Methods: 🙋 explained
-	- `static`: 🙋 explained
-	- Constructors: 🙋 explained
-	- `final`: 🙋 explained
-	- `this`: 🙋 explained
-	- Initializer: 🙋 explained
-	- Mutable and immutable objects: 🙋 explained
-
+  - Properties: 🙋 explained
+  - Methods: 🙋 explained
+  - `static`: 🙋 explained
+  - Constructors: 🙋 explained
+  - `final`: 🙋 explained
+  - `this`: 🙋 explained
+  - Initializer: 🙋 explained
+  - Mutable and immutable objects: 🙋 explained
 - Enum classes: 🙋 explained
-
 - Class `Object`: 🙋 explained
-	- `toString()`: 🙋 explained
-	- `equals(), hashcode()`: 🙋 explained
-
+  - `toString()`: 🙋 explained
+  - `equals(), hashcode()`: 🙋 explained
 - Packages: 🙋 explained
-
 - Object-Oriented Programming (OOP)
-	- Abstraction: 🙋 explained
-	- Encapsulation: 🙋 explained
-	- Inheritance: 🙋 explained
-	- Polymorphism: 🙋 explained
-	- Abstract class: 🙋 explained
-	- Abstract method: 🙋 explained
-	- Interface: 🙋 explained
-	- `final` class: 🙋 explained
-	- `final` method: 🙋 explained
-	- `final` property: 🙋 explained
-	- Nested class: 🙋 explained
-	- Inner class: 🙋 explained
-	- `public`: 🙋 explained
-	- `private`: 🙋 explained
-	- `protected`: 🙋 explained
-	- package-private: 🙋 explained
-	- Cast operator: 🙋 explained
-	- `instanceof`: 🙋 explained
-
+  - Abstraction: 🙋 explained
+  - Encapsulation: 🙋 explained
+  - Inheritance: 🙋 explained
+  - Polymorphism: 🙋 explained
+  - Abstract class: 🙋 explained
+  - Abstract method: 🙋 explained
+  - Interface: 🙋 explained
+  - `final` class: 🙋 explained
+  - `final` method: 🙋 explained
+  - `final` property: 🙋 explained
+  - Nested class: 🙋 explained
+  - Inner class: 🙋 explained
+  - `public`: 🙋 explained
+  - `private`: 🙋 explained
+  - `protected`: 🙋 explained
+  - package-private: 🙋 explained
+  - Cast operator: 🙋 explained
+  - `instanceof`: 🙋 explained
 - Generics
-	- Class with type arguments: 🙋 explained
-	- Method with type arguments: 🙋 explained
-	- Bounded type arguments: 🙋 explained
-	- Type erasure: 👂 heard
-	- Type inference: 🙋 explained
-	- Diamond operator `<>`: 🙋 explained
-	- Unbounded wildcard: 🙋 explained
-	- Upper-bounded wildcard: 🙋 explained
-	- Lower-bounded wildcard: 🙋 explained
-
+  - Class with type arguments: 🙋 explained
+  - Method with type arguments: 🙋 explained
+  - Bounded type arguments: 🙋 explained
+  - Type erasure: 👂 heard
+  - Type inference: 🙋 explained
+  - Diamond operator `<>`: 🙋 explained
+  - Unbounded wildcard: 🙋 explained
+  - Upper-bounded wildcard: 🙋 explained
+  - Lower-bounded wildcard: 🙋 explained
 - Functional programming
-	- Functional interfaces: 🙋 explained
-	- Lambdas: 🙋 explained
-	- Method references: 🙋 explained
-	- Java Stream API: 🙋 explained
-
+  - Functional interfaces: 🙋 explained
+  - Lambdas: 🙋 explained
+  - Method references: 🙋 explained
+  - Java Stream API: 🙋 explained
 - Input/Output
-	- `InputStream` and `OutputStream`: 🙋 explained
-		- `try/catch` with resource: 🙋 explained
-		- `Scanner`: 🙋 explained
-		- `ByteArrayOutputStream`: 🙋 explained
-		- `ByteArrayInputStream`: 🙋 explained
-		- `DataOutputStream`: 🙋 explained
-		- `DataInputStream`: 🙋 explained
-
-	- Readers and Writers
-		- `OutputStreamWriter`: 🙋 explained
-		- `InputStreamReader`: 🙋 explained
-	
-	- Serialization: 🙋 explained
-
-	- Working with files
-		- `BufferedOutputStream`: 🙋 explained
-		- `BufferedInputStream`: 🙋 explained
-		- `BufferedWriter`: 🙋 explained
-		- `BufferedReader`: 🙋 explained
-		- `File`: 🙋 explained
-		- `RandomAccessFile`: 🙋 explained
-		- `FileInputStream`: 🙋 explained
-		- `FileOutputStream`: 🙋 explained
-
+  - `InputStream` and `OutputStream`: 🙋 explained
+  - `try/catch` with resource: 🙋 explained
+  - `Scanner`: 🙋 explained
+  - `ByteArrayOutputStream`: 🙋 explained
+  - `ByteArrayInputStream`: 🙋 explained
+  - `DataOutputStream`: 🙋 explained
+  - `DataInputStream`: 🙋 explained
+  - `OutputStreamWriter`: 🙋 explained
+  - `InputStreamReader`: 🙋 explained
+  - Serialization: 🙋 explained
+  - `BufferedOutputStream`: 🙋 explained
+  - `BufferedInputStream`: 🙋 explained
+  - `BufferedWriter`: 🙋 explained
+  - `BufferedReader`: 🙋 explained
+  - `File`: 🙋 explained
+  - `RandomAccessFile`: 🙋 explained
+  - `FileInputStream`: 🙋 explained
+  - `FileOutputStream`: 🙋 explained
 - Multithreading
-	- `Thread`: 🙋 explained
-	- `Runnable`: 🙋 explained
-	- `Semaphore`: 👂 heard
-	- `Lock`: 🖐️ used
-	- Atomic types and operations: 🎓 known
-	- Monitors: 👂 heard
-	- `synchronized` methods: 🎓 known
-	- `synchronized` blocks: 🎓 known
-	- Synchronized collections: 🎓 known
-	- Dead locks, race conditions: 🎓 known
-
+  - `Thread`: 🙋 explained
+  - `Runnable`: 🙋 explained
+  - `Semaphore`: 🙋 explained
+  - `Lock`: 🙋 explained
+  - Atomic types and operations: 🙋 explained
+  - Monitors: 🙋 explained
+  - `synchronized` methods: 🙋 explained
+  - `synchronized` blocks: 🙋 explained
+  - Synchronized collections: 🙋 explained
+  - Dead locks, race conditions: 🙋 explained
 - Date/Time API: 🖐️ used
-
 - Spring Framework
-	- Spring Core: 🖐️ used
-	- Spring Boot: 🖐️ used
-	- Spring MVC: 🖐️ used
-	- Spring Data: 🖐️ used
-	- Spring Security: 👂 heard
+  - Spring Core: 📢 talked
+  - Spring Boot: 📢 talked
+  - Spring MVC: 📢 talked
+  - Spring Data: 📢 talked
+  - Spring Security: 👂 heard

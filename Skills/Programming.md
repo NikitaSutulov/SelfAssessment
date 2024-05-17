@@ -1,9 +1,9 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🎓 known
-  - Modeling: 🎓 known
-  - Subject domain: 🎓 known
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
+  - Subject domain: 🙋 explained
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
   - Semantics: 🙋 explained
@@ -64,22 +64,22 @@
   - Kebab case: 🙋 explained
   - Trailing commas: 🙋 explained
   - Return early: 🙋 explained
-  - Fail-fast: 🖐️ used
+  - Fail-fast: 🙋 explained
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
   - Type systems: 🙋 explained
   - Strong typing: 🙋 explained
   - Weak typing: 🙋 explained
-  - Duck typing: 🎓 known
+  - Duck typing: 🙋 explained
   - Static typing: 🙋 explained
   - Dynamic typing: 🙋 explained
   - Nominal typing: 🖐️ used
   - Structural typing: 🖐️ used
   - Explicit typing: 🙋 explained
   - Type inference: 🙋 explained
-  - Covariance: 👂 heard
-  - Contravariance: 👂 heard
+  - Covariance: 🎓 known
+  - Contravariance: 🎓 known
 - Functions
   - Signature: 🙋 explained
   - Argument: 🙋 explained
@@ -114,10 +114,10 @@
   - Collection: 🙋 explained
   - Set: 🙋 explained
   - Hash table: 🙋 explained
-  - Linked list: 🙋 explained
-  - Doubly list: 🙋 explained
-  - Unrolled list: 🙋 explained
-  - Circular list: 🙋 explained
+  - Linked list: 🚀 constructed
+  - Doubly list: 🚀 constructed
+  - Unrolled list: 🚀 constructed
+  - Circular list: 🚀 constructed
   - Queue: 🙋 explained
   - Stack: 🙋 explained
   - Deque: 🙋 explained
@@ -129,7 +129,7 @@
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
-  - JSON5: 👂 heard
+  - JSON5: 🎓 known
   - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
@@ -139,13 +139,13 @@
   - IPv6: 🙋 explained
   - NAT: 🙋 explained
   - URL: 🙋 explained
-  - URN: 👂 heard
+  - URN: 🎓 known
   - URI: 🙋 explained
 - Process and tools
   - Compiler: 🙋 explained
   - Just-in-time compilation: 🙋 explained
   - Ahead-of-time compilation: 🙋 explained
-  - Transpiler: 👂 heard
+  - Transpiler: 🎓 known
   - Linter: 🙋 explained
   - Polyfill: 🙋 explained
   - Interpreter: 🙋 explained
@@ -154,11 +154,11 @@
   - Static linking: 🙋 explained
   - Runtime: 🙋 explained
   - Virtual machine: 🙋 explained
-  - Register-based VM: 👂 heard
-  - Stack-based VM: 👂 heard
-  - Containerization: 🎓 known
+  - Register-based VM: 🎓 known
+  - Stack-based VM: 🎓 known
+  - Containerization: 🖐️ used
   - Debugger: 🙋 explained
-  - Tracing: 🖐️ used
+  - Tracing: 🙋 explained
   - Garbage collection: 🙋 explained
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
@@ -169,71 +169,71 @@
   - Docker: 🙋 explained
   - Kubernetes: 🎓 known
   - GCC: 🎓 known
-  - LLVM: 👂 heard
+  - LLVM: 🎓 known
 - Antipatterns
   - Magic numbers: 🙋 explained
   - Hard code: 🙋 explained
-  - Soft code: 👂 heard
-  - Cryptic code: 👂 heard
-  - Improbability factor: 👂 heard
-  - Accidental complexity: 👂 heard
-  - Action at a distance: 👂 heard
+  - Soft code: 🙋 explained
+  - Cryptic code: 🙋 explained
+  - Improbability factor: 🙋 explained
+  - Accidental complexity: 🙋 explained
+  - Action at a distance: 🙋 explained
   - Spaghetti: 🙋 explained
   - Silver bullet: 🙋 explained
   - Not invented here: 🙋 explained
   - Dead code: 🙋 explained
   - Unreachable code: 🙋 explained
   - Duplicate code: 🙋 explained
-  - Premature optimization: 👂 heard
-  - Micro-optimization: 👂 heard
+  - Premature optimization: 🙋 explained
+  - Micro-optimization: 🙋 explained
   - Nested loops: 🙋 explained
   - Long method/function/procedure: 🙋 explained
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters: 🎓 known
-  - Accumulate and fire: 👂 heard
+  - Pass-through parameters: 🙋 explained
+  - Accumulate and fire: 🙋 explained
   - Use switch/case: 🙋 explained
-  - Temporary field: 👂 heard
+  - Temporary field: 🙋 explained
   - Handle object as instances and hashes at the same time: 👂 heard
-  - Use fields instead of arguments: 🎓 known
-  - Data clump: 🎓 known
-  - Feature envy: 🎓 known
-  - Monkey patch: 👂 heard
-  - Yo-yo problem: 👂 heard
+  - Use fields instead of arguments: 🙋 explained
+  - Data clump: 🙋 explained
+  - Feature envy: 🙋 explained
+  - Monkey patch: 🎓 known
+  - Yo-yo problem: 🎓 known
 - Runtimes and virtual machines
   - Bytecode: 🙋 explained
-  - V8: 👂 heard
+  - V8: 🎓 known
   - JVM: 🙋 explained
-  - CLR: 👂 heard
-  - Mono: 👂 heard
+  - CLR: 🎓 known
+  - Mono: 🎓 known
 - Operating systems
-  - Interrupts: 🎓 known
-  - Drivers: 🎓 known
-  - Kernel: 🎓 known
-  - Ring: 🎓 known
-  - Virtual memory: 🎓 known
-  - File system: 🎓 known
+  - Interrupts: 🙋 explained
+  - Drivers: 🙋 explained
+  - Kernel: 🙋 explained
+  - Ring: 🙋 explained
+  - Virtual memory: 🙋 explained
+  - File system: 🙋 explained
   - Linux: 🙋 explained
   - Unix: 🙋 explained
   - BSD: 🎓 known
   - MacOS: 🙋 explained
   - Windows: 🙋 explained
-  - Real-time OS: 👂 heard
-  - Embedded OS: 👂 heard
+  - Real-time OS: 🎓 known
+  - Embedded OS: 🎓 known
 - Standards
   - ASCII: 🙋 explained
   - Escape sequence: 🙋 explained
   - RFC: 🎓 known
-  - IETF
-  - IANA
+  - IETF: 🎓 known
+  - IANA: 🎓 known
   - IEEE: 🎓 known
   - Base64: 🙋 explained
   - ECMA: 🎓 known
-  - ICANN
+  - ICANN: 🎓 known
   - ISO: 🎓 known
   - MIME: 🎓 known
-  - OWASP
+  - OWASP: 🎓 known
   - UTF-8: 🎓 known
-  - W3C
-  - ODMG
+  - W3C: 🎓 known
+  - ODMG: 🎓 known
