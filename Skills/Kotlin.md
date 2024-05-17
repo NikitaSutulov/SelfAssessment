@@ -1,0 +1,213 @@
+## Kotlin
+- Language
+    - Variables
+    - Primitive types
+    - Unsigned types
+    - Nullable types
+    - Non-nullable types
+    - `String`
+    - `Any`
+    - `Unit`
+    - Mapping to Java types
+    - Arithmetic operators
+    - Boolean operators
+    - Complex conditions
+    - Conditional operators
+    - Elvis operator `?:`
+    - Safe call opearator `?.`
+    - `for` loop
+    - `while...do` loop
+    - `do...while` loop
+    - `forEach{...}`
+    - `forEachInIndexed{...}`
+    - `Arrays<T>`
+    - Primitive arrays
+    - Log & Debug
+        - `stdout`
+        - `stderr`
+        - Breakpoints
+        - Step-by-step running
+    - Exceptions
+        - Exceptions
+        - Errors
+        - `try...catch`
+        - Nothing type
+    - Collections
+        - `List`
+        - `MutableList`
+        - `Set`
+        - `MutableSet`
+        - `Map`
+        - `MutableMap`
+        - `Collection`
+        - `Iterable`
+        - `Ranges`
+        - `Sequences`
+    - Functions
+        - Arguments
+        - Return type
+        - Function signature
+        - `varargs`
+        - Function overloading
+        - Extension functions
+        - Inline functions
+        - Infix functions
+    - Recursion
+        - Recursive functions
+        - StackOverFlowError
+        - `Tailrec` functions
+    - Classes & objects
+        - Constrauctors
+        - Initializers
+        - Properties
+        - Getters & Setters
+        - Methods
+        - `this`
+        - Objects
+        - Companion objects
+        - References
+        - Muttable & immutable classes
+    - Enum classes
+    - Class `Any`
+    - Operator overloading
+    - Data classes
+    - Packages
+    - Aliases
+        - Type aliases
+        - Import aliases
+    - Value classes
+
+- OOP
+    - Abstractions
+        - Abstract classes
+        - Abstract method
+        - Abstract property
+        - Interface
+    - Finals
+        - Closed class
+        - Open class 
+        - Open method
+        - Open property
+    - Nested classes
+        - Nested class
+        - Inner class
+    - Visibility modifiers
+        - `public`
+        - `protected`
+        - `internal`
+        - `private`
+    - Sealed classes
+        - Sealed class
+        - Sealed interface
+    - Type casting
+        - Unsafe class operator `as`
+        - Safe class operator `as?`
+        - Type check operators `is` & `!is`
+        - Smart cast
+    - Delegation (operator `by`)
+        - `lazy`
+        - `observable`
+        - `vetoable`
+        - Delegate to other property
+        - Delegate to map collection
+        - Custom delegates
+        - Delegation pattern
+
+- Generics
+    - Basics
+        - Class with type arguments
+        - Method with type arguments
+        - Tyoe erasure
+    - Bounds
+        - Upper bound
+        - Multiple bounds `where`
+    - Declaration-site variance
+        - Covariant type args `out`
+        - Covariant type args `in`
+    - Use-site variance
+        - Input projection `in`
+        - Output ptojection `out`
+        - Star-projection
+    - Reified functions
+
+- Functional programming
+    - High-order functions 
+        - Lambda declaration
+        - Lambda instantiation
+        - Invoking lambdas
+        - Functional Interfaces
+        - Callable references
+    - Lambdas in inline-functions
+        - `noinline`
+        - `crossinline`
+    - Scoped functions
+        - `with`
+        - `let`
+        - `run`
+        - `apply`
+        - `also`
+        - `takeif`
+        - Cusstom scope functions
+    
+- Input\Output Streams
+    - InputStream & OutputStream
+        - `readLine`
+        - `readIn`
+        - `readInOrNull`
+        - `Scanner`
+        - `ByteArrayOutputStream`
+        - `ByteArrayInputStream`
+        - `DataOutputStream`
+        - `DataInputStream`
+        - `use{...}` function
+    - Readers & Writers
+        - `OutputStreamWriter`
+        - `InputStreamReader`
+    - Serialization
+    - Working with files
+        - `BufferedOutputStream`
+        - `BufferedInputStream`
+        - `BufferedReader`
+        - `BufferedWriter`
+        - `File`
+        - `RandomAccessFile`
+        - `FileTreeWalk`
+        - `FileInputStream`
+        - `FileOutputStream`
+    
+- Async programming
+    - Java threads
+        - `Thread`
+        - `ExecutorServices`
+        - Synchronizations
+        - Atomic types
+        - Atomic operations
+        - Dead locks
+        - Race conditions
+        - Live locks
+        - Starvation
+        - Synchronized collections
+    - Kotlin Coroutines
+        - `runBlocking`
+        - `launch`
+        - `async`
+        - `suspend` functions
+        - Structures concurrency
+        - Cotoutine Context
+        - `Dispatcher`
+        - `Job`
+        - `Name`
+        - `CorutineExceptionHandler`
+        - Coroutine Scope
+        - Cancellation & Timeouts
+        - `withContext{...}` function
+        - `suspendCancellableCoroutine{...}` function
+    - Kotlin Flows
+        - Cold & Hot Flows
+        - Intermidiate & terminal operators
+        - `flowOf`
+        - `flow{...}`
+        - `callbackFlow{...}`
+        - Flow cancellation
+        - Combining multiple flows
+        - `StateFlow` & `SharedFlow` 
