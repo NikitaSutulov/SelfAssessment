@@ -1,6 +1,6 @@
 ## Android
 
-- Android Basics 
+- Android Basics
   - Android Studio: 🙋 explained
   - Android project structure: 🙋 explained
   - Activity lifecycle: 🙋 explained
@@ -108,7 +108,6 @@
   - Navigation component: 🙋 explained
   - Paging library: 👂 heard
   - Room: 🙋 explained
-  - WorkManager: 👂 heard
   - CameraX: 👂 heard
 - Advanced Topics
   - Architecture components

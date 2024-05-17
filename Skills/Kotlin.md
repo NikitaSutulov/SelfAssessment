@@ -149,7 +149,7 @@
   - `RandomAccessFile`: 🙋 explained
   - `FileTreeWalk`: 🙋 explained
   - `FileInputStream`: 🙋 explained
-  - `FileOutputStream`: 🙋 explained 
+  - `FileOutputStream`: 🙋 explained
 - Async programming
   - `Thread`: 🙋 explained
   - `ExecutorServices`: 🙋 explained
