@@ -8,11 +8,11 @@
   - Intents: 🖐️ used
   - Views and ViewGroups: 🖐️ used
   - Layouts
-		- LinearLayout: 🙋 explained
-		- RelativeLayout: 🎓 known
-		- ConstraintLayout: 🙋 explained
-		- FrameLayout: 🙋 explained
-		- TableLayout: 🙋 explained
+  	- LinearLayout: 🙋 explained
+	- RelativeLayout: 🎓 known
+	- ConstraintLayout: 🙋 explained
+	- FrameLayout: 🙋 explained
+	- TableLayout: 🙋 explained
   - Resources
     - res/values: 🎓 known
     - strings.xml: 🎓 known
