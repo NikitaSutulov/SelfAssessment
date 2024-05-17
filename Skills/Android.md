@@ -8,7 +8,7 @@
   - Intents: 🖐️ used
   - Views and ViewGroups: 🖐️ used
   - Layouts
-    - LinearLayout: 🙋 explained
+		- LinearLayout: 🙋 explained
 		- RelativeLayout: 🎓 known
 		- ConstraintLayout: 🙋 explained
 		- FrameLayout: 🙋 explained
