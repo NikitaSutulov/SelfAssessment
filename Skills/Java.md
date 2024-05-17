@@ -90,28 +90,23 @@
 
 - Input/Output
 	- `InputStream` and `OutputStream`: 🙋 explained
-		- `try/catch` with resource: 🙋 explained
-		- `Scanner`: 🙋 explained
-		- `ByteArrayOutputStream`: 🙋 explained
-		- `ByteArrayInputStream`: 🙋 explained
-		- `DataOutputStream`: 🙋 explained
-		- `DataInputStream`: 🙋 explained
-
-	- Readers and Writers
-		- `OutputStreamWriter`: 🙋 explained
-		- `InputStreamReader`: 🙋 explained
-	
+	- `try/catch` with resource: 🙋 explained
+	- `Scanner`: 🙋 explained
+	- `ByteArrayOutputStream`: 🙋 explained
+	- `ByteArrayInputStream`: 🙋 explained
+	- `DataOutputStream`: 🙋 explained
+	- `DataInputStream`: 🙋 explained
+	- `OutputStreamWriter`: 🙋 explained
+	- `InputStreamReader`: 🙋 explained
 	- Serialization: 🙋 explained
-
-	- Working with files
-		- `BufferedOutputStream`: 🙋 explained
-		- `BufferedInputStream`: 🙋 explained
-		- `BufferedWriter`: 🙋 explained
-		- `BufferedReader`: 🙋 explained
-		- `File`: 🙋 explained
-		- `RandomAccessFile`: 🙋 explained
-		- `FileInputStream`: 🙋 explained
-		- `FileOutputStream`: 🙋 explained
+	- `BufferedOutputStream`: 🙋 explained
+	- `BufferedInputStream`: 🙋 explained
+	- `BufferedWriter`: 🙋 explained
+	- `BufferedReader`: 🙋 explained
+	- `File`: 🙋 explained
+	- `RandomAccessFile`: 🙋 explained
+	- `FileInputStream`: 🙋 explained
+	- `FileOutputStream`: 🙋 explained
 
 - Multithreading
 	- `Thread`: 🙋 explained

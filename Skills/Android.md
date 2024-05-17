@@ -8,29 +8,27 @@
   - Intents: 🙋 explained
   - Views and ViewGroups: 🙋 explained
   - Layouts
-  	- LinearLayout: 🙋 explained
+  - LinearLayout: 🙋 explained
 	- RelativeLayout: 🙋 explained
 	- ConstraintLayout: 🙋 explained
 	- FrameLayout: 🙋 explained
 	- TableLayout: 🙋 explained
-  - Resources
-    - res/values: 🙋 explained
-    - strings.xml: 🙋 explained
-    - colors.xml: 🙋 explained
-    - styles.xml: 🙋 explained
+  - res/values: 🙋 explained
+  - strings.xml: 🙋 explained
+  - colors.xml: 🙋 explained
+  - styles.xml: 🙋 explained
   - R class: 🙋 explained
 - User Interface (UI)
   - XML layout files: 🙋 explained
-  - Widgets
-    - TextView: 🙋 explained
-    - EditText: 🙋 explained
-    - Button: 🙋 explained
-    - ImageView: 🙋 explained
-    - RecyclerView: 🙋 explained
-    - ListView: 🙋 explained
-    - ScrollView: 🙋 explained
-    - CardView: 🎓 known
-    - AppBar: 🎓 known
+  - TextView: 🙋 explained
+  - EditText: 🙋 explained
+  - Button: 🙋 explained
+  - ImageView: 🙋 explained
+  - RecyclerView: 🙋 explained
+  - ListView: 🙋 explained
+  - ScrollView: 🙋 explained
+  - CardView: 🎓 known
+  - AppBar: 🎓 known
   - Custom views: 🎓 known
   - Material Design components: 🙋 explained
   - Themes and styles: 🙋 explained
@@ -55,8 +53,8 @@
   - OkHttp: 🖐️ used
   - Retrofit: 🖐️ used
   - JSON parsing
-    - JSONObject: 👂 heard
-    - Gson: 🖐️ used
+  - JSONObject: 👂 heard
+  - Gson: 🖐️ used
   - AsyncTask: 🎓 known
   - Threading: 🎓 known
   - Background services: 🎓 known
@@ -114,9 +112,9 @@
   - CameraX: 👂 heard
 - Advanced Topics
   - Architecture components
-    - MVVM: 🙋 explained
-    - MVI: 👂 heard
-    - MVP: 👂 heard
+  - MVVM: 🙋 explained
+  - MVI: 👂 heard
+  - MVP: 👂 heard
   - ProGuard and R8: 👂 heard
   - Performance optimization: 👂 heard
   - App bundles: 🙋 explained
