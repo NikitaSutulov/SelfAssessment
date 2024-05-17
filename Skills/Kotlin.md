@@ -20,7 +20,7 @@
   - `while...do` loop: 🙋 explained
   - `do...while` loop: 🙋 explained
   - `forEach{...}`: 🙋 explained
-  - `forEachInIndexed{...}`: 👂 heard
+  - `forEachInIndexed{...}`: 🙋 explained
   - `Arrays<T>`: 🙋 explained
   - Primitive arrays: 🙋 explained
   - Log & Debug
@@ -43,7 +43,7 @@
     - `Collection`: 🙋 explained
     - `Iterable`: 🙋 explained
     - `Ranges`: 🙋 explained
-    - `Sequences`: 👂 heard
+    - `Sequences`: 🙋 explained
   - Functions
     - Arguments: 🙋 explained
     - Return type: 🙋 explained
@@ -118,7 +118,7 @@
   - Basics
     - Class with type arguments: 🙋 explained
     - Method with type arguments: 🙋 explained
-    - Type erasure: 👂 heard
+    - Type erasure: 🙋 explained
   - Bounds
     - Upper bound: 🙋 explained
     - Multiple bounds `where`: 🎓 known
@@ -126,10 +126,10 @@
     - Covariant type args `out`: 🎓 known
     - Covariant type args `in`: 🎓 known
   - Use-site variance
-    - Input projection `in`: 👂 heard
-    - Output ptojection `out`: 👂 heard
-    - Star-projection: 👂 heard
-  - Reified functions: 👂 heard
+    - Input projection `in`: 🎓 known
+    - Output ptojection `out`: 🎓 known
+    - Star-projection: 🎓 known
+  - Reified functions: 🎓 known
 
 - Functional programming
   - High-order functions: 🙋 explained
@@ -139,22 +139,22 @@
   - Functional Interfaces: 🙋 explained
   - Callable references: 🙋 explained
   - Lambdas in inline-functions
-    - `noinline`: 👂 heard
-    - `crossinline`: 👂 heard
+    - `noinline`: 🎓 known
+    - `crossinline`: 🎓 known
   - Scoped functions
     - `with`: 🖐️ used
     - `let`: 🖐️ used
     - `run`: 🖐️ used
     - `apply`: 🖐️ used
     - `also`: 🖐️ used
-    - `takeif`: 👂 heard
+    - `takeif`: 🎓 known
     - Custom scope functions: 👂 heard
     
 - Input\Output Streams
   - InputStream & OutputStream
     - `readLine`: 🙋 explained
     - `readIn`: 🙋 explained
-    - `readInOrNull`: 🎓 known
+    - `readInOrNull`: 🙋 explained
     - `Scanner`: 🙋 explained
     - `ByteArrayOutputStream`: 🙋 explained
     - `ByteArrayInputStream`: 🙋 explained
@@ -179,20 +179,20 @@
 - Async programming
   - Java threads
     - `Thread`: 🙋 explained
-    - `ExecutorServices`: 👂 heard
-    - Synchronizations: 🎓 known
-    - Atomic types: 🎓 known
-    - Atomic operations: 🎓 known
-    - Dead locks: 🎓 known
-    - Race conditions: 🎓 known
-    - Live locks: 👂 heard
-    - Starvation: 👂 heard
-    - Synchronized collections: 🎓 known
+    - `ExecutorServices`: 🙋 explained
+    - Synchronizations: 🙋 explained
+    - Atomic types: 🙋 explained
+    - Atomic operations: 🙋 explained
+    - Dead locks: 🙋 explained
+    - Race conditions: 🙋 explained
+    - Live locks: 🙋 explained
+    - Starvation: 🙋 explained
+    - Synchronized collections: 🙋 explained
   - Kotlin Coroutines
-    - `runBlocking`: 🎓 known
-    - `launch`: 🎓 known
+    - `runBlocking`: 🖐️ used
+    - `launch`: 🖐️ used
     - `async`: 🎓 known
-    - `suspend` functions: 🎓 known
+    - `suspend` functions: 🖐️ used
     - Structures concurrency: 👂 heard
     - Cotoutine Context: 🎓 known
     - `Dispatcher`: 👂 heard
