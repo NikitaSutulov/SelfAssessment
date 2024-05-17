@@ -9,10 +9,10 @@
   - Views and ViewGroups: 🙋 explained
   - Layouts
   - LinearLayout: 🙋 explained
-	- RelativeLayout: 🙋 explained
-	- ConstraintLayout: 🙋 explained
-	- FrameLayout: 🙋 explained
-	- TableLayout: 🙋 explained
+  - RelativeLayout: 🙋 explained
+  - ConstraintLayout: 🙋 explained
+  - FrameLayout: 🙋 explained
+  - TableLayout: 🙋 explained
   - res/values: 🙋 explained
   - strings.xml: 🙋 explained
   - colors.xml: 🙋 explained

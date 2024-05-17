@@ -71,7 +71,6 @@
   - Type aliases: 🙋 explained
   - Import aliases: 🙋 explained
   - Value classes: 🙋 explained
-
 - OOP
   - Abstract classes: 🙋 explained
   - Abstract method: 🙋 explained
@@ -100,7 +99,6 @@
   - Delegate to map collection: 👂 heard
   - Custom delegates: 👂 heard
   - Delegation pattern: 👂 heard
-
 - Generics
   - Class with type arguments: 🙋 explained
   - Method with type arguments: 🙋 explained
@@ -113,7 +111,6 @@
   - Output ptojection `out`: 🎓 known
   - Star-projection: 🎓 known
   - Reified functions: 🎓 known
-
 - Functional programming
   - High-order functions: 🙋 explained
   - Lambda declaration: 🙋 explained
@@ -130,7 +127,6 @@
   - `also`: 🖐️ used
   - `takeif`: 🎓 known
   - Custom scope functions: 👂 heard
-    
 - Input\Output Streams
   - `readLine`: 🙋 explained
   - `readIn`: 🙋 explained
@@ -153,8 +149,7 @@
   - `RandomAccessFile`: 🙋 explained
   - `FileTreeWalk`: 🙋 explained
   - `FileInputStream`: 🙋 explained
-  - `FileOutputStream`: 🙋 explained
-    
+  - `FileOutputStream`: 🙋 explained 
 - Async programming
   - `Thread`: 🙋 explained
   - `ExecutorServices`: 🙋 explained
